@@ -80,8 +80,8 @@ app.layout = html.Div(children=[
     State(component_id='BedroomAbvGr', component_property='value'),
     State(component_id='TotalSF', component_property='value'),
     State(component_id='SingleFam', component_property='value'),
-    State(component_id='LargeNeighborhood', component_property='value')
-    State(component_id='YearRemodAdd', component_property='value')
+    State(component_id='LargeNeighborhood', component_property='value'),
+    State(component_id='YearRemodAdd', component_property='value'),
     State(component_id='HouseStyle', component_property='value')
 
 )
